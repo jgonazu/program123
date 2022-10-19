@@ -1,4 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LALIGA HD_M
+http://127.0.0.1:6878/ace/getstream?id=ea905f0ecae1f5c031dce44788aec56d6ec1ca8b
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LALIGA HD_
+http://127.0.0.1:6878/ace/getstream?id=3d783550706c36af82b5dc053bbf4170173da4c2
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn Liga 1080 MultiAudio
+http://127.0.0.1:6878/ace/getstream?id=1124d4366348b76a755710c8d0d5728e39d0095c
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn Liga 1080 MultiAudio 
 http://127.0.0.1:6878/ace/getstream?id=fee5612d57824b6e8db780f210ec54093056dc3a
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn Liga 1080 MultiAudio
@@ -73,10 +79,6 @@ http://127.0.0.1:6878/ace/getstream?id=df67afe5c5f5e82a3ae629d126727b006b65e676
 http://127.0.0.1:6878/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f1277
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,Campeones12
 http://127.0.0.1:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#vamos HD_M
-http://127.0.0.1:6878/ace/getstream?id=ea905f0ecae1f5c031dce44788aec56d6ec1ca8b
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#vamos HD_
-http://127.0.0.1:6878/ace/getstream?id=3d783550706c36af82b5dc053bbf4170173da4c2
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,# Vamos 1080
 http://127.0.0.1:6878/ace/getstream?id=069431a1199eb2545a14c0a724095e57bdc58e9c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,# Vamos 720
