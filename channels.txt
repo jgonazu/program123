@@ -40,6 +40,8 @@ acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080  
 acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080  
+acestream://a11e904c0b74872c1275c9bf556049c4b54eb6b2
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080  
 acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720  
 acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
