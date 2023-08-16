@@ -1,0 +1,86 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="TDT", LA 1
+http://525000925616321276.of2304.xyz:80/play/vi924002/9565509818/321276.ts
+
+#EXTINF:-1 tvg-id="La 2" tvg-name="LA 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA2.png" group-title="TDT", LA 2 HD
+http://525000925616321279.of2304.xyz:80/play/vi924002/9565509818/321279.ts
+
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="TDT", ANTENA 3 FHD
+http://398538678963321105.ofio.xyz:80/play/Benicarlo/Paco/321105.ts
+
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CUATROHD.png" group-title="TDT", CUATRO FHD
+http://398538678963321196.ofio.xyz:80/play/Benicarlo/Paco/321196.ts
+
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="TDT", TELECINCO FHD
+http://398538678963321429.ofio.xyz:80/play/Benicarlo/Paco/321429.ts
+
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="TDT", LA SEXTA FHD
+http://398538678963321196.ofio.xyz:80/play/Benicarlo/Paco/321196.ts
+
+#EXTINF:0 tvg-id="Neox.es" group-title="TDT",ES: NEOX HD
+http://16692914887321375.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321375.ts
+
+#EXTINF:-1 tvg-id="Be Mad" tvg-name="BE MAD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BEMAD.png" group-title="TDT", BE MAD
+http://398538678963321125.ofio.xyz:80/play/Benicarlo/Paco/321125.ts
+
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="TDT",ES | Clan TVE
+https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main.m3u8
+
+#EXTINF:0 tvg-id="24Horas.sp" group-title="TDT",ES | Canal 24 Horas
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="TDT",ES: DREAMWORKS HD
+http://16692914887321229.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321229.ts
+
+#EXTINF:0 tvg-id="ext" group-title="TDT",ES: ENERGY FHD
+http://16692914887321236.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321236.ts
+
+#EXTINF:0 tvg-id="FDF.es" group-title="TDT",ES: FACTORIA DE FICCION SD
+http://16692914887321246.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321246.ts
+
+#EXTINF:0 tvg-id="Fox.es" group-title="TDT",ES: FOX FHD
+http://16692914887321251.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321251.ts
+
+#EXTINF:0 tvg-id="GOL.es" group-title="TDT",ES: GOL PLAY HD
+http://16692914887543736.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/543736.ts
+
+#EXTINF:0 tvg-id="Historia.es" group-title="TDT",ES: HISTORIA SD
+http://16692914887321262.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321262.ts
+
+#EXTINF:0 tvg-id="Hollywood.es" group-title="TDT",ES: HOLLYWOOD FHD
+http://16692914887321265.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321265.ts
+
+#EXTINF:0 tvg-id="ext" group-title="TDT",ES: MEGA HD
+http://16692914887321300.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321300.ts
+
+#EXTINF:0 tvg-id="ext" group-title="TDT",ES: TELE MADRID HD
+http://16692914887453222.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/453222.ts
+
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",ES: M+ ACCION HD
+http://16692914887321306.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321306.ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",ES: M+ CINE ESPAÑOL HD
+http://16692914887321312.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321312.ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",ES: M+ CLASICOS HD
+http://16692914887321315.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321315.ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",ES: M+ COMEDIA HD
+http://16692914887321318.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321318.ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",ES: M+ DRAMA HD
+http://16692914887321332.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321332.ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",ES: M+ HD
+http://16692914887321335.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321335.ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",ES: M+ CINE HD
+http://16692914887321338.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321338.ts
+#EXTINF:0 tvg-id="ext" group-title="EMOVISTAR+",ES: M+ SUSPENSE HD
+http://16692914887321345.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321345.ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",ES: M+ SERIES HD
+http://16692914887321348.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321348.ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",ES: M+ ORIGINALES HD
+http://16692914887552960.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/552960.ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",ES: MTV ESPA HD
+http://16692914887321355.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321355.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="MOVISTAR+",ES: NAT GEO WILD HD
+http://16692914887321365.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321365.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="MOVISTAR+",ES: NATIONAL GEOGRAPHIC HD
+http://16692914887321372.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321372.ts
+#EXTINF:0 tvg-id="TNT.es" group-title="MOVISTAR+",ES: WB HD
+http://16692914887321442.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321442.ts
