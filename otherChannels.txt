@@ -15,16 +15,16 @@ http://398538678963321196.ofio.xyz:80/play/Benicarlo/Paco/321196.ts
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO FHD" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200" group-title="TV", TELECINCO HD
 http://398538678963321429.ofio.xyz:80/play/Benicarlo/Paco/321429.ts
 
-#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA HD" tvg-logo=https://graph.facebook.com/laSexta/picture?width=200&height=200" group-title="TV", LA SEXTA HD
-http://398538678963321196.ofio.xyz:80/play/Benicarlo/Paco/321196.ts
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200" group-title="TV", LA SEXTA HD
+http://16692914887321289.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321289.ts
 
-#EXTINF:0 tvg-id="Teledeportes" tvg-name="TELEDEPORTE" tvg-logo=https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200 group-title="TV",ES: TELEDEPORTE
+#EXTINF:0 tvg-id="Teledeportes" tvg-name="TELEDEPORTE" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TV",ES: TELEDEPORTE
 https://www.rtve.es/play/videos/directo/tdp/
 
-#EXTINF:0 tvg-id="Neox.es" tvg-name="NEOX HD" tvg-logo=https://graph.facebook.com/neox/picture?width=200&height=200 group-title="TV",ES: NEOX HD
+#EXTINF:0 tvg-id="Neox.es" tvg-name="NEOX HD" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200" group-title="TV",ES: NEOX HD
 http://16692914887321375.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321375.ts
 
-#EXTINF:0 tvg-id="GOL.es" tvg-name="GOL PLAY HD" tvg-logo=https://graph.facebook.com/goltv.es/picture?width=200&height=200 group-title="TV",ES: GOL PLAY HD
+#EXTINF:0 tvg-id="GOL.es" tvg-name="GOL PLAY HD" tvg-logo="https://graph.facebook.com/goltv.es/picture?width=200&height=200" group-title="TV",ES: GOL PLAY HD
 http://16692914887543736.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/543736.ts
 
 #EXTINF:-1 tvg-id="Be Mad" tvg-name="BE MAD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BEMAD.png" group-title="TV", BE MAD
