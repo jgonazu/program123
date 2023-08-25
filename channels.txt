@@ -109,6 +109,8 @@ acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 7" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 7 1080
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="Gol Mundial 1" tvg-logo="https://pbs.twimg.com/profile_images/1693747769851232257/meLYo2BI_400x400.jpg" ,Gol Mundial 1
+acestream://97a2a6082909987c419986259079f969968bd662
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Gol Mundial 2" tvg-logo="https://pbs.twimg.com/profile_images/1693747769851232257/meLYo2BI_400x400.jpg" ,Gol Mundial 2
 acestream://a248e0e3649b135d3e3a806874153f8bccd32e4a
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Gol Mundial 4" tvg-logo="https://pbs.twimg.com/profile_images/1693747769851232257/meLYo2BI_400x400.jpg" ,Gol Mundial 4
