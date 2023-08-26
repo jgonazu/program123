@@ -6,7 +6,7 @@ acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 720
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 UHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 UHD
-acestream://48274719cbd6b2f852d0b91ebe20eaed2c974ba2
+acestream://5c340fa3440fef0f9330187cb53e09350d1de270
 #EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR HD" tvg-logo="https://telegra.ph/file/92a3edd207bb0781e868b.jpg" ,LaLiga TV Bar 1080
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" ,M+ LaLiga 1080 MultiAudio
