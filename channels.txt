@@ -9,6 +9,8 @@ acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 acestream://76d4087a189f847d2edbfb3979ee0e19b5b28899
 #EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV UHD" tvg-logo="https://telegra.ph/file/92a3edd207bb0781e868b.jpg" ,LaLiga TV UHD
 acestream://ac5b8784bb7dae0dbc6a2edc037fbf5c8d6a97d1
+#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV UHD2" tvg-logo="https://telegra.ph/file/92a3edd207bb0781e868b.jpg" ,LaLiga TV UHD2
+acestream://8286183314d367940409b760bbf887f3fb923f60
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" ,M+ LaLiga 1080 MultiAudio
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" ,M+ LaLiga 1080 MultiAudio
