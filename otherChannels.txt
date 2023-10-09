@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml,
 https://www.tdtchannels.com/epg/TV.xml"
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TV", LA 1 HD
-http://525000925616321276.of2304.xyz:80/play/vi924002/9565509818/321276.ts
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-id="La 2" tvg-name="LA 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TV", LA 2 HD
-http://525000925616321279.of2304.xyz:80/play/vi924002/9565509818/321279.ts
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 HD" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200" group-title="TV", ANTENA 3 HD
 http://398538678963321105.ofio.xyz:80/play/Benicarlo/Paco/321105.ts
@@ -16,10 +16,13 @@ http://398538678963321196.ofio.xyz:80/play/Benicarlo/Paco/321196.ts
 http://398538678963321429.ofio.xyz:80/play/Benicarlo/Paco/321429.ts
 
 #EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200" group-title="TV", LA SEXTA HD
-http://16692914887321289.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321289.ts
+http://16692914887321288.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321288.ts
 
 #EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="TV", TELEDEPORTE HD
 https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8
+
+#EXTINF:-1 tvg-id="CMM.TV" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200"  group-title="TV" tvg-name="Castilla-La Mancha Media",Castilla-La Mancha Media
+https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
 #EXTINF:-1 tvg-id="Neox" tvg-name="Neox HD" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200" group-title="TV" NEOX HD
 http://16692914887321375.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321375.ts
@@ -37,7 +40,7 @@ http://16692914887542578.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/542578.ts
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main.m3u8
 
 #EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="TV" Canal 24 Horas
-http://16692914887339730.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/339730.ts
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-id="Dreamworks HD" tvg-name="Dreamworks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1599px-DreamWorks_Channel_Logo.svg.png" group-title="TV" DREAMWORKS HD
 http://16692914887321229.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321229.ts
@@ -61,7 +64,7 @@ http://16692914887321265.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321265.ts
 http://16692914887453222.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/453222.ts
 
 #EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="M+ Acción HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/2880px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TV" M+ ACCION HD
-http://16692914887321306.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321306.ts
+http://16692914887321305.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321305.ts
 
 #EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ Cine Español HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2023_Logo.svg/2880px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TV" M+ CINE ESPAÑOL HD
 http://16692914887321312.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321312.ts
