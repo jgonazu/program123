@@ -7,16 +7,16 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 HD" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200" group-title="TV", ANTENA 3 HD
-http://398538678963321105.ofio.xyz:80/play/Benicarlo/Paco/321105.ts
+http://605924024741321106.of230922.xyz:80/play/Sergiovigilante234/99981334w/321106.ts
 
 #EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" group-title="TV", CUATRO HD
-http://398538678963321196.ofio.xyz:80/play/Benicarlo/Paco/321196.ts
+http://605924024741321197.of230922.xyz:80/play/Sergiovigilante234/99981334w/321197.ts
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200" group-title="TV", TELECINCO HD
-http://398538678963321429.ofio.xyz:80/play/Benicarlo/Paco/321429.ts
+http://605924024741321430.of230922.xyz:80/play/Sergiovigilante234/99981334w/321430.ts
 
 #EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200" group-title="TV", LA SEXTA HD
-http://16692914887321288.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321288.ts
+http://605924024741321289.of230922.xyz:80/play/Sergiovigilante234/99981334w/321289.ts
 
 #EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="TV", TELEDEPORTE HD
 https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8
@@ -25,25 +25,28 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
 #EXTINF:-1 tvg-id="Neox" tvg-name="Neox HD" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200" group-title="TV" NEOX HD
-http://16692914887321375.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321375.ts
+http://605924024741321375.of230922.xyz:80/play/Sergiovigilante234/99981334w/321375.ts
 
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL PLAY HD" tvg-logo="https://graph.facebook.com/goltv.es/picture?width=200&height=200" group-title="TV" GOL PLAY HD
-http://16692914887543736.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/543736.ts
+http://605924024741543736.of230922.xyz:80/play/Sergiovigilante234/99981334w/543736.ts
 
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200" group-title="TV" MEGA HD
-http://16692914887321300.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321300.ts
+http://605924024741554775.of230922.xyz:80/play/Sergiovigilante234/99981334w/554775.ts
 
 #EXTINF:-1 tvg-id="Be Mad" tvg-name="BE MAD" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=200&height=200" group-title="TV", BE MAD
-http://16692914887542578.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/542578.ts
+http://605924024741321126.of230922.xyz:80/play/Sergiovigilante234/99981334w/321126.ts
 
 #EXTINF:-1 tvg-id="Clan" tvg-name="Clan" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="TV" Clan TVE
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main.m3u8
+
+#EXTINF:0 tvg-id="AMC.es" tvg-name="AMC" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.logodownload.org%2Famc-logo%2F&psig=AOvVaw2VyxW1At05ldrWRctJOvFu&ust=1696935195384000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjrra_m6IEDFQAAAAAdAAAAABAE"  group-title="TV" AMC HD
+http://605924024741321103.of230922.xyz:80/play/Sergiovigilante234/99981334w/321103.ts
 
 #EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="TV" Canal 24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-id="Dreamworks HD" tvg-name="Dreamworks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1599px-DreamWorks_Channel_Logo.svg.png" group-title="TV" DREAMWORKS HD
-http://16692914887321229.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321229.ts
+http://605924024741321229.of230922.xyz:80/play/Sergiovigilante234/99981334w/321229.ts
 
 #EXTINF:-1 tvg-id="Energy" tvg-name="Energy HD" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200" tvg-name="Energy.TV" group-title="TV" ENERGY HD
 http://16692914887321236.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321236.ts
@@ -51,56 +54,47 @@ http://16692914887321236.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321236.ts
 #EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="Factoría de Ficción SD" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200" group-title="TV" FACTORIA DE FICCION SD
 http://16692914887321246.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321246.ts
 
+#EXTINF:0 tvg-id="Cocina.es" tvg-name="CANAL COCINA HD" tvg-logo="https://canalcocina.es/medias/_cache/zoom-7eff46a4aea5f907ea1b8f6406856731-920-518.JPG" group-title="TV" CANAL COCINA HD
+http://605924024741321148.of230922.xyz:80/play/Sergiovigilante234/99981334w/321148.ts
+
 #EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="https://e7.pngegg.com/pngimages/809/867/png-clipart-fox-broadcasting-company-television-channel-logo-television-show-fox-logo-television-angle.png" group-title="TV" FOX FHD
-http://16692914887321251.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321251.ts
-
-#EXTINF:-1 tvg-id="Historia" tvg-name="Historia SD" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/e733a3d9165ec09f0aca60b84f4f757b_HISTORIA-NUEVO-LOGO-IMAGEN-CANAL.jpg" group-title="TV" HISTORIA SD
-http://16692914887321262.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321262.ts
-
-#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="Canal Hollywood HD" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200" group-title="TV" HOLLYWOOD HD
-http://16692914887321265.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321265.ts
+http://605924024741321252.of230922.xyz:80/play/Sergiovigilante234/99981334w/321252.ts
 
 #EXTINF:-1 tvg-id="Telemadrid" tvg-name="Telemadrid HD" tvg-logo="https://w7.pngwing.com/pngs/195/738/png-transparent-telemadrid-community-of-madrid-logo-laotra-television-people-walking-television-text-logo.png" group-title="TV" TELE MADRID HD
-http://16692914887453222.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/453222.ts
+http://605924024741165351.of230922.xyz:80/play/Sergiovigilante234/99981334w/165351.ts
 
 #EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="M+ Acción HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/2880px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TV" M+ ACCION HD
-http://16692914887321305.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321305.ts
+http://605924024741321306.of230922.xyz:80/play/Sergiovigilante234/99981334w/321306.ts
 
 #EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ Cine Español HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2023_Logo.svg/2880px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TV" M+ CINE ESPAÑOL HD
-http://16692914887321312.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321312.ts
-
-#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="M+ Clásicos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg/2880px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TV" M+ CLASICOS HD
-http://16692914887321315.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321315.ts
+http://605924024741321312.of230922.xyz:80/play/Sergiovigilante234/99981334w/321312.ts
 
 #EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="M+ Comedia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/2880px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TV" M+ COMEDIA HD
-http://16692914887321318.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321318.ts
+http://605924024741321318.of230922.xyz:80/play/Sergiovigilante234/99981334w/321318.ts
 
 #EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M+ Drama HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Drama_por_Movistar_Plus%2B_2023_Logo.svg/2880px-Drama_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TV" M+ DRAMA HD
-http://16692914887321332.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321332.ts
+http://605924024741321332.of230922.xyz:80/play/Sergiovigilante234/99981334w/321332.ts
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="Movistar Plus+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Movistar%2B.png/1920px-Movistar%2B.png" group-title="TV" M+ HD
-http://16692914887321335.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321335.ts
+http://605924024741321335.of230922.xyz:80/play/Sergiovigilante234/99981334w/321335.ts
 
 #EXTINF:-1 tvg-id="M+ Cine HD" tvg-name="M+ Cine HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/1920px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TV" M+ CINE HD
-http://16692914887321338.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321338.ts
+http://605924024741561133.of230922.xyz:80/play/Sergiovigilante234/99981334w/561133.ts
 
 #EXTINF:-1 tvg-id="M+ Suspense HD" tvg-name="M+ Suspense HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TV" M+ SUSPENSE HD
-http://16692914887321345.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321345.ts
+http://605924024741321338.of230922.xyz:80/play/Sergiovigilante234/99981334w/321338.ts
 
 #EXTINF:-1 tvg-id="M+ Series HD" tvg-name="M+ Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/2560px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TV" M+ SERIES HD
-http://16692914887321348.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321348.ts
+http://605924024741321348.of230922.xyz:80/play/Sergiovigilante234/99981334w/321348.ts
 
 #EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M+ Originales HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/2880px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TV" M+ ORIGINALES HD
-http://16692914887552960.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/552960.ts
-
-#EXTINF:-1 tvg-id="MTV España" tvg-name="MTV España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/2560px-MTV_Logo.svg.png" group-title="TV" MTV ESPA HD
-http://16692914887321355.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321355.ts
+http://605924024741321069.of230922.xyz:80/play/Sergiovigilante234/99981334w/321069.ts
 
 #EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="NatGeoWild" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png" group-title="TV" NAT GEO WILD HD
-http://16692914887321365.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321365.ts
+http://605924024741321365.of230922.xyz:80/play/Sergiovigilante234/99981334w/321365.ts
 
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="NationalGeographic SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" group-title="TV" NATIONAL GEOGRAPHIC HD
-http://16692914887321372.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321372.ts
+http://605924024741321372.of230922.xyz:80/play/Sergiovigilante234/99981334w/321372.ts
 
 #EXTINF:-1 tvg-id="WB" tvg-name="WB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="TV" WB HD
-http://16692914887321442.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321442.ts
+http://605924024741459778.of230922.xyz:80/play/Sergiovigilante234/99981334w/459778.ts
