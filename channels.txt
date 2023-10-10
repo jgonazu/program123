@@ -1,4 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
+#EXTINF:-1 group-title="UHD" tvg-id="OTROS" tvg-logo="https://i.pinimg.com/originals/85/c4/b0/85c4b0a2fb8612825d0cd2f53460925f.png" ,F1 UHD
+acestream://eeb0192c25538dbf09c1fd08b0ebca4864a8263a
+#EXTINF:-1 group-title="UHD" tvg-id="OTROS" tvg-logo="https://i.pinimg.com/originals/85/c4/b0/85c4b0a2fb8612825d0cd2f53460925f.png" ,LaLiga UHD DASH
+acestream://be071f7a5977de40f8f024a8ae582e799a6c4b8c
+#EXTINF:-1 group-title="UHD" tvg-id="OTROS" tvg-logo="https://i.pinimg.com/originals/85/c4/b0/85c4b0a2fb8612825d0cd2f53460925f.png" ,MultiAudio
+acestream://8286183314d367940409b760bbf887f3fb923f60
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 UHD
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 1080
@@ -83,15 +89,15 @@ acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 acestream://60296c246e3596f334903fefd48cfaa724a5053b
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1200px-DAZN_1_Logo.png" ,DAZN 1 1080
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/DAZN_1.svg/revision/latest/scale-to-width-down/250?cb=20220119155737" ,DAZN 1 720
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1200px-DAZN_1_Logo.png" ,DAZN 1 720
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://tvepg.eu/img/spain/logo/dazn_2.png" ,DAZN 2 1080
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://iili.io/HSJOmfs.png" ,DAZN 2 1080
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://tvepg.eu/img/spain/logo/dazn_2.png" ,DAZN 2 720
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://iili.io/HSJOmfs.png" ,DAZN 2 720
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://tvepg.eu/img/spain/logo/dazn_3.png" ,DAZN 3 1080
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-3-espana-es.png" ,DAZN 3 1080
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://tvepg.eu/img/spain/logo/dazn_4.png" ,DAZN 4 1080
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-4-espana-es.png" ,DAZN 4 1080
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga Femenina 1" tvg-logo="https://telegra.ph/file/88ed96a2e74f404784cce.png" ,DAZN Liga F 1
 acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
@@ -153,15 +159,9 @@ acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" ,Eurosport 2 1080
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="UHD" tvg-id="OTROS" tvg-logo="https://i.pinimg.com/originals/85/c4/b0/85c4b0a2fb8612825d0cd2f53460925f.png" ,F1 UHD
-acestream://eeb0192c25538dbf09c1fd08b0ebca4864a8263a
-#EXTINF:-1 group-title="UHD" tvg-id="OTROS" tvg-logo="https://i.pinimg.com/originals/85/c4/b0/85c4b0a2fb8612825d0cd2f53460925f.png" ,LaLiga UHD DASH
-acestream://be071f7a5977de40f8f024a8ae582e799a6c4b8c
-#EXTINF:-1 group-title="UHD" tvg-id="OTROS" tvg-logo="https://i.pinimg.com/originals/85/c4/b0/85c4b0a2fb8612825d0cd2f53460925f.png" ,MultiAudio
-acestream://8286183314d367940409b760bbf887f3fb923f60
 #EXTINF:-1 group-title="Otros deportes" tvg-id="I216.32281.zap2it.com" tvg-logo="https://i.imgur.com/4QrPlos.png" ,NBA TV
 acestream://e72d03fb9694164317260f684470be9ab781ed95
-#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN.us" tvg-logo=https://cdn.freebiesupply.com/images/large/2x/espn-logo-transparent.png" ,ESPN US
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN.us" tvg-logo="https://logowik.com/content/uploads/images/t_espn5188.jpg" ,ESPN US
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN2.us" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" ,ESPN 2 US
 acestream://664eb5fe460b96941aed633959a845b185cd8394
