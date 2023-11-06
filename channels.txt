@@ -1,10 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
-#EXTINF:-1 group-title="UHD" tvg-id="OTROS" tvg-logo="https://i.pinimg.com/originals/85/c4/b0/85c4b0a2fb8612825d0cd2f53460925f.png" ,F1 UHD
-acestream://eeb0192c25538dbf09c1fd08b0ebca4864a8263a
-#EXTINF:-1 group-title="UHD" tvg-id="OTROS" tvg-logo="https://i.pinimg.com/originals/85/c4/b0/85c4b0a2fb8612825d0cd2f53460925f.png" ,LaLiga UHD DASH
-acestream://be071f7a5977de40f8f024a8ae582e799a6c4b8c
-#EXTINF:-1 group-title="UHD" tvg-id="OTROS" tvg-logo="https://i.pinimg.com/originals/85/c4/b0/85c4b0a2fb8612825d0cd2f53460925f.png" ,MultiAudio
-acestream://8286183314d367940409b760bbf887f3fb923f60
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/1/k/u/xdazn.jpg.pagespeed.ic.aAtE5-BNU0.jpg" ,DAZN F1 UHD
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/1/k/u/xdazn.jpg.pagespeed.ic.aAtE5-BNU0.jpg" ,DAZN F1 1080
