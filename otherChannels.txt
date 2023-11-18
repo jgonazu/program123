@@ -10,16 +10,16 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 http://605924024741321106.of230922.xyz:80/play/Sergiovigilante234/99981334w/321106.ts
 
 #EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" group-title="TV", CUATRO HD
-http://605924024741321197.of230922.xyz:80/play/Sergiovigilante234/99981334w/321197.ts
+http://607145121490321197.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321197.ts
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200" group-title="TV", TELECINCO HD
-http://605924024741321430.of230922.xyz:80/play/Sergiovigilante234/99981334w/321430.ts
+http://607145121490321430.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321430.ts
 
 #EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA HD" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200" group-title="TV", LA SEXTA HD
-http://605924024741321289.of230922.xyz:80/play/Sergiovigilante234/99981334w/321289.ts
+http://607145121490321289.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321289.ts
 
 #EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="TV", TELEDEPORTE HD
-https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8
+https://ztnr.rtve.es/ztnr/1712295.m3u8
 
 #EXTINF:-1 tvg-id="CMM.TV" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200"  group-title="TV" tvg-name="Castilla-La Mancha Media",Castilla-La Mancha Media
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
@@ -34,7 +34,7 @@ http://605924024741543736.of230922.xyz:80/play/Sergiovigilante234/99981334w/5437
 http://605924024741554775.of230922.xyz:80/play/Sergiovigilante234/99981334w/554775.ts
 
 #EXTINF:-1 tvg-id="Be Mad" tvg-name="BE MAD" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=200&height=200" group-title="TV", BE MAD
-http://605924024741321126.of230922.xyz:80/play/Sergiovigilante234/99981334w/321126.ts
+http://607145121490321126.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321126.ts
 
 #EXTINF:-1 tvg-id="Clan" tvg-name="Clan" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="TV" Clan TVE
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main.m3u8
