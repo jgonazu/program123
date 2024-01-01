@@ -85,13 +85,13 @@ acestream://60296c246e3596f334903fefd48cfaa724a5053b
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://i.imgur.com/alzVFEm.png" ,DAZN 1 720
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/DAZN_2.svg/revision/latest?cb=20230901145219" ,DAZN 2 1080
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://i.imgur.com/m2YgWg7.png" ,DAZN 2 1080
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/DAZN_2.svg/revision/latest?cb=20230901145219" ,DAZN 2 720
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://i.imgur.com/m2YgWg7.png" ,DAZN 2 720
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/DAZN_3.svg/revision/latest?cb=20220119161736" ,DAZN 3 1080
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://i.imgur.com/shO9HrB.png" ,DAZN 3 1080
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest?cb=20220119162341" ,DAZN 4 1080
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://i.imgur.com/m7ga8bU.png" ,DAZN 4 1080
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga Femenina 1" tvg-logo="https://telegra.ph/file/88ed96a2e74f404784cce.png" ,DAZN Liga F 1
 acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
