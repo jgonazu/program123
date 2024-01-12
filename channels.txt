@@ -13,9 +13,9 @@ acestream://9dad717d99b29a05672166258a77c25b57713dd5
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png", La Liga BAR 1080
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png", SuperCopa 1080
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png", SuperCopa 1080
 acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png", SuperCopa 1080 MultiAudio
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png", SuperCopa 1080 MultiAudio
 acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png", SuperCopa 1080
 acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
