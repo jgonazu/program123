@@ -17,15 +17,15 @@ acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png", SuperCopa 1080 MultiAudio
 acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png", SuperCopa 1080
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png", SuperCopa 1080
 acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png", SuperCopa 720
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png", SuperCopa 720
 acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH", M+ LaLiga UHD
 acestream://8286183314d367940409b760bbf887f3fb923f60
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH", M+ LaLiga UHD
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" ,M+ LaLiga UHD 
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH" ,M+ LaLiga UHD 
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" ,M+ LaLiga 1080 
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
