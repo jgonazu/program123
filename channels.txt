@@ -11,8 +11,6 @@ acestream://5789ca155323664edd293b848606688edf803f4d
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/1/k/u/xdazn.jpg.pagespeed.ic.aAtE5-BNU0.jpg", DAZN F1 720
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png", La Liga BAR 1080
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH", M+ LaLiga UHD
 acestream://8286183314d367940409b760bbf887f3fb923f60
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH", M+ LaLiga UHD
